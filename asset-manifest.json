@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qlts/static/css/main.f31a1921.css",
+    "main.js": "/qlts/static/js/main.04654ca3.js",
+    "static/js/453.0081ee76.chunk.js": "/qlts/static/js/453.0081ee76.chunk.js",
+    "static/media/Logo_lk@2x.png": "/qlts/static/media/Logo_lk@2x.1024631a84d1e8d75841.png",
+    "index.html": "/qlts/index.html",
+    "main.f31a1921.css.map": "/qlts/static/css/main.f31a1921.css.map",
+    "main.04654ca3.js.map": "/qlts/static/js/main.04654ca3.js.map",
+    "453.0081ee76.chunk.js.map": "/qlts/static/js/453.0081ee76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f31a1921.css",
+    "static/js/main.04654ca3.js"
+  ]
+}
